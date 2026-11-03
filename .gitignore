@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints/
+data/crsp_simple/raw/*.csv
+data/crsp_simple/processed/*.csv
+
